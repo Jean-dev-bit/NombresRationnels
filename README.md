@@ -1,17 +1,17 @@
 # NombresRationnels -NombresRationnelsNormalisés
 
-/*Ce programmme permet d'effectuer des opérations arithmétiques et logiques ainsi que la compraraison et le tri des rationnels et rationnels normalisés */
+*Ce programmme permet d'effectuer des opérations arithmétiques et logiques ainsi que la compraraison et le tri des rationnels et rationnels normalisés *
 
-/*<h1>Ce programme est écrit en trois volet</h1>*/
+*<h1>Ce programme est écrit en trois volets</h1>*
 
-/*Premier volet : FONCTION*/
+*Premier volet : FONCTION*
 
-/*Deuxième volet : STRUCTURE*/
+*Deuxième volet : STRUCTURE*
 
-/*Troisième volet : CLASSE**/
+*Troisième volet : CLASSE**
 
-/*<h2>Ce programme est écrit en langage C++</h2>*/
+*<h2>Ce programme est écrit en langage C++</h2>*
 
-/*Projet dévéloppé sous Qt Creator 5.1.2*/
+*Projet dévéloppé sous Qt Creator 5.1.2*
 
-/*Merci et à la prochaine*/
+*Merci et à la prochaine*
