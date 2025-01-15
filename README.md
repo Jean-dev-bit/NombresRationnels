@@ -1,6 +1,9 @@
 # NombresRationnels -NombresRationnelsNormalisés
 
 *Ce programmme permet d'effectuer des opérations arithmétiques et logiques ainsi que la compraraison et le tri des rationnels et rationnels normalisés *
+```
+```
+*Deziper le projet avant utillisation*
 
 *<h1>Ce programme est écrit en trois volets</h1>*
 
